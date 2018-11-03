@@ -10,7 +10,7 @@ d = f.read()
 stop_words = d.split('\r\n')
 
 result = []
-sample_input = "Ako ay masaya at hindi makulit"
+sample_input = "Ako ay masaya at hindi makulit naming"
 
 input_words = sample_input.split()
 
